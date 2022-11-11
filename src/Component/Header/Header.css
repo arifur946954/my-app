@@ -1,0 +1,22 @@
+.header{
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ padding: 0 10px;
+ height: 70px;
+ margin: 0 5px;
+ border-radius: 5px;
+}
+.header a{
+    text-decoration: none;
+    padding: 0 15px;
+    color: white;
+    font-size: 1.2em;
+
+  
+}
+.header a:hover{
+    background-color: tomato;
+
+}

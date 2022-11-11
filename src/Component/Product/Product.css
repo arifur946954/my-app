@@ -1,0 +1,14 @@
+.product{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.product-details{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+ 
+}
+.calculateproduct{
+
+    position: sticky;
+    top: 0;
+}
